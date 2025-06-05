@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Altix
 
-Welcome to my GitHub profile. I'm a back-end developer focused on scripting, systems, and performance-driven tools — mainly for **FiveM** and **GTA V-related** projects.
+Welcome to my GitHub profile. I'm a back-end developer focused on scripts and systems for projects related to **FiveM** and **GTA V**.
 
 ---
 
