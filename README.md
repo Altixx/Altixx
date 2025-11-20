@@ -6,6 +6,7 @@ Welcome to my GitHub profile. I'm a back-end developer focused on scripts and sy
 
 ## ⚙️ My Coding Arsenal
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,8 +20,6 @@ Welcome to my GitHub profile. I'm a back-end developer focused on scripts and sy
 
 - 🔥 Build optimized, secure, and modular back-end systems for FiveM
 - ⚙️ Develop automation tools, scripts, and external utilities using Python
-- 🧠 Deep knowledge of GTA V memory and game file structures to detect or counter cheaters
-- 🧰 Create complete frameworks (currently working on **OfflineRP**)
 - 🎨 Occasionally work on UI/NUI integration for custom menus and features
 
 ---
@@ -28,5 +27,3 @@ Welcome to my GitHub profile. I'm a back-end developer focused on scripts and sy
 ## 📫 Contact Me
 
 - Discord: `altix`
-
-> Always open to feedback, collaboration, or just a friendly ping.
